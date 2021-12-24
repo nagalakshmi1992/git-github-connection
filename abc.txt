@@ -1,5 +1,0 @@
-welcome
-<<<<<<< HEAD
-git session
-=======
->>>>>>> 5875d23c689991486c479072a37e2bb7a88fdc57
